@@ -34,5 +34,5 @@ Minimal Viable Outcome:
   1. Snow ramdomly falling animation.
   2. Snowball moving animation.
 
-- Week N (Final)
+- Week 3 (Final)
   1. Combine and recording the loop animation.
